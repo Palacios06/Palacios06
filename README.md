@@ -5,7 +5,7 @@
 
 - 👨‍💻 Most of my projects are available at [https://github.com/Palacios06](https://github.com/Palacios06)
 
-- 💬 Ask me about **react, mui, fivem**
+- 💬 Ask me about **React, Material UI, FiveM, RedM**
 
 - 📫 How to reach me **Palacios#4884**
 
