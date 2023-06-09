@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Palacios</h1>
-<h3 align="center">Desarollador frontend y backend con experiencia en videojuegos.</h3>
+<h3 align="center">Frontend and backend developer with experience in videogames.</h3>
 
 - 🌱 I’m currently learning **C++, C#,**
 
