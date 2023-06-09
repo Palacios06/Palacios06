@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Material UI, FiveM, RedM**
 
-- 📫 How to reach me **Palacios#4884**
+- 📫 How to reach me **Palacios** in discord
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
