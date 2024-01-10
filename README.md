@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **C++, C#,**
 
-- 👨‍💻 Most of my projects are available at [https://github.com/Palacios06](https://github.com/Palacios06)
-
 - 💬 Ask me about **React, Material UI, FiveM, RedM**
 
 - 📫 How to reach me **Palacios** in discord
