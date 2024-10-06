@@ -4,9 +4,9 @@
 
 ## I'm a Self-Taught Programmer
 
-- 🌱 I’m currently learning **C++, C#,** and studyng aviation : )
+- 🌱 I’m currently learning **C++, C#** : )
 - 📫 How to reach me **Palacios** in discord
-- ⚡ Fun fact: I'm planning to study psychology as a second career.
+- ⚡ Fun fact: I'm studyng aviation!
 
 ### Languages:
 
