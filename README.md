@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C++, C#** : )
 - 📫 How to reach me **Palacios** in discord
-- ⚡ Fun fact: I'm studyng aviation!
+- ⚡ Fun fact: I'm studing aviation!
 
 ### Languages:
 
